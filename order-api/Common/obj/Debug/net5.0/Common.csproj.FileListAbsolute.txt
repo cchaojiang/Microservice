@@ -1,0 +1,11 @@
+F:\practice\NetCore\order-api\Common\bin\Debug\net5.0\Common.deps.json
+F:\practice\NetCore\order-api\Common\bin\Debug\net5.0\Common.dll
+F:\practice\NetCore\order-api\Common\bin\Debug\net5.0\ref\Common.dll
+F:\practice\NetCore\order-api\Common\bin\Debug\net5.0\Common.pdb
+F:\practice\NetCore\order-api\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\practice\NetCore\order-api\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+F:\practice\NetCore\order-api\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+F:\practice\NetCore\order-api\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+F:\practice\NetCore\order-api\Common\obj\Debug\net5.0\Common.dll
+F:\practice\NetCore\order-api\Common\obj\Debug\net5.0\ref\Common.dll
+F:\practice\NetCore\order-api\Common\obj\Debug\net5.0\Common.pdb
