@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "eu7267DdFtk/urdEnfcy0h6L3MJKvwVvKOXo18wueIMdNsBwR9OEcjjneh2+hnIM243rntQ0vRpcMTdyg6bmhQ==",
+  "success": true,
+  "projectFilePath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.1.1\\microsoft.extensions.caching.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.1.1\\microsoft.extensions.caching.memory.2.1.1.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.9.0\\microsoft.identitymodel.jsonwebtokens.6.9.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.identitymodel.logging\\6.9.0\\microsoft.identitymodel.logging.6.9.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.9.0\\microsoft.identitymodel.tokens.6.9.0.nupkg.sha512",
+    "C:\\Users\\wangh\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.9.0\\system.identitymodel.tokens.jwt.6.9.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

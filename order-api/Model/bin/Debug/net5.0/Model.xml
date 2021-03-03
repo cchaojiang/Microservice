@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Model</name>
+    </assembly>
+    <members>
+        <member name="T:Model.TokenModel">
+            <summary>
+            令牌
+            </summary>
+        </member>
+        <member name="P:Model.TokenModel.Uid">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:Model.TokenModel.Role">
+            <summary>
+            角色
+            </summary>
+        </member>
+        <member name="T:Model.User">
+            <summary>
+            用户表
+            </summary>
+        </member>
+        <member name="P:Model.User.id">
+            <summary>
+            编号
+            </summary>
+        </member>
+        <member name="P:Model.User.name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:Model.User.age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>order-api</name>
+    </assembly>
+    <members>
+        <member name="M:order_api.Controllers.HelloController.Hello">
+            <summary>
+            Hello 请求
+            </summary>
+        </member>
+        <member name="M:order_api.Controllers.UserController.GetUser(System.String)">
+            <summary>
+            获取用户
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:order_api.Controllers.UserController.Login(System.String)">
+            <summary>
+            登录
+            </summary>
+            <param name="role"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

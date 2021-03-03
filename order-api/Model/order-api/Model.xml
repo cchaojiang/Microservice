@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Model</name>
+    </assembly>
+    <members>
+        <member name="F:Model.User.id">
+            <summary>
+            编号
+            </summary>
+        </member>
+        <member name="F:Model.User.name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="F:Model.User.age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+    </members>
+</doc>
