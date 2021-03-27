@@ -1,0 +1,11 @@
+F:\practice\WorkSpace\Microservice\order-api\IDataBaseService\bin\Debug\net5.0\IDataBaseService.deps.json
+F:\practice\WorkSpace\Microservice\order-api\IDataBaseService\bin\Debug\net5.0\IDataBaseService.dll
+F:\practice\WorkSpace\Microservice\order-api\IDataBaseService\bin\Debug\net5.0\ref\IDataBaseService.dll
+F:\practice\WorkSpace\Microservice\order-api\IDataBaseService\bin\Debug\net5.0\IDataBaseService.pdb
+F:\practice\WorkSpace\Microservice\order-api\IDataBaseService\obj\Debug\net5.0\IDataBaseService.GeneratedMSBuildEditorConfig.editorconfig
+F:\practice\WorkSpace\Microservice\order-api\IDataBaseService\obj\Debug\net5.0\IDataBaseService.AssemblyInfoInputs.cache
+F:\practice\WorkSpace\Microservice\order-api\IDataBaseService\obj\Debug\net5.0\IDataBaseService.AssemblyInfo.cs
+F:\practice\WorkSpace\Microservice\order-api\IDataBaseService\obj\Debug\net5.0\IDataBaseService.csproj.CoreCompileInputs.cache
+F:\practice\WorkSpace\Microservice\order-api\IDataBaseService\obj\Debug\net5.0\IDataBaseService.dll
+F:\practice\WorkSpace\Microservice\order-api\IDataBaseService\obj\Debug\net5.0\ref\IDataBaseService.dll
+F:\practice\WorkSpace\Microservice\order-api\IDataBaseService\obj\Debug\net5.0\IDataBaseService.pdb

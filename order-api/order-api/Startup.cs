@@ -1,4 +1,7 @@
+using Autofac;
 using Common.Helper;
+using DataBaseService;
+using IServices;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -8,6 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using order_api.AutofacContainer;
+using order_api.SetUp;
+using Services;
 using Swashbuckle.AspNetCore.Filters;
 using System;
 using System.Collections.Generic;
@@ -43,7 +49,7 @@ namespace order_api
 
                 // 在header中添加token，传递到后台
                 c.OperationFilter<SecurityRequirementsOperationFilter>();
-
+                BaseDbConfig.db_connect_str = AppSettings.app(new string[] { "AppSettings", "ConnectionString" });
                 #region Token绑定到ConfigureServices
                 c.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
                 {
@@ -55,7 +61,9 @@ namespace order_api
                 #endregion
             });
             services.AddSingleton(new AppSettings(Configuration));
-            var text = AppSettings.app(new string[] { "AppSettings", "ConnectionString" });
+            services.AddScoped<ITestService, TestService>();
+            services.AddAuthorizationSetup();
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -65,13 +73,21 @@ namespace order_api
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "order_api v1"));
+                app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "order_api v1");
+                    c.RoutePrefix = "swagger";
+                });
             }
 
             app.UseHttpsRedirection();
 
             app.UseRouting();
 
+            //1.先开启认证
+            app.UseAuthentication();
+
+            //2.再开启授权
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
@@ -82,6 +98,11 @@ namespace order_api
                     pattern: "{ controlle}/{action}/{id?}");
             });
 
+        }
+
+        public void ConfigureContainer(ContainerBuilder builder)
+        {
+            builder.RegisterModule(new AutofacModuleRegister());
         }
     }
 }

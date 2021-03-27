@@ -1,0 +1,15 @@
+F:\practice\WorkSpace\Microservice\order-api\IRepository\bin\Debug\net5.0\IRepository.deps.json
+F:\practice\WorkSpace\Microservice\order-api\IRepository\bin\Debug\net5.0\IRepository.dll
+F:\practice\WorkSpace\Microservice\order-api\IRepository\bin\Debug\net5.0\ref\IRepository.dll
+F:\practice\WorkSpace\Microservice\order-api\IRepository\bin\Debug\net5.0\IRepository.pdb
+F:\practice\WorkSpace\Microservice\order-api\IRepository\obj\Debug\net5.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+F:\practice\WorkSpace\Microservice\order-api\IRepository\obj\Debug\net5.0\IRepository.AssemblyInfoInputs.cache
+F:\practice\WorkSpace\Microservice\order-api\IRepository\obj\Debug\net5.0\IRepository.AssemblyInfo.cs
+F:\practice\WorkSpace\Microservice\order-api\IRepository\obj\Debug\net5.0\IRepository.csproj.CoreCompileInputs.cache
+F:\practice\WorkSpace\Microservice\order-api\IRepository\obj\Debug\net5.0\IRepository.dll
+F:\practice\WorkSpace\Microservice\order-api\IRepository\obj\Debug\net5.0\ref\IRepository.dll
+F:\practice\WorkSpace\Microservice\order-api\IRepository\obj\Debug\net5.0\IRepository.pdb
+F:\practice\WorkSpace\Microservice\order-api\IRepository\obj\Debug\net5.0\IRepository.csprojAssemblyReference.cache
+F:\practice\WorkSpace\Microservice\order-api\IRepository\obj\Debug\net5.0\IRepository.csproj.CopyComplete
+F:\practice\WorkSpace\Microservice\order-api\IRepository\bin\Debug\net5.0\Enties.dll
+F:\practice\WorkSpace\Microservice\order-api\IRepository\bin\Debug\net5.0\Enties.pdb

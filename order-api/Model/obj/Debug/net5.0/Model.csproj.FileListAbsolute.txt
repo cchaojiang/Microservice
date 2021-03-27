@@ -2,6 +2,7 @@ F:\practice\WorkSpace\Microservice\order-api\Model\bin\Debug\net5.0\Model.deps.j
 F:\practice\WorkSpace\Microservice\order-api\Model\bin\Debug\net5.0\Model.dll
 F:\practice\WorkSpace\Microservice\order-api\Model\bin\Debug\net5.0\ref\Model.dll
 F:\practice\WorkSpace\Microservice\order-api\Model\bin\Debug\net5.0\Model.pdb
+F:\practice\WorkSpace\Microservice\order-api\Model\bin\Debug\net5.0\Model.xml
 F:\practice\WorkSpace\Microservice\order-api\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
 F:\practice\WorkSpace\Microservice\order-api\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
 F:\practice\WorkSpace\Microservice\order-api\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
@@ -9,5 +10,3 @@ F:\practice\WorkSpace\Microservice\order-api\Model\obj\Debug\net5.0\Model.csproj
 F:\practice\WorkSpace\Microservice\order-api\Model\obj\Debug\net5.0\Model.dll
 F:\practice\WorkSpace\Microservice\order-api\Model\obj\Debug\net5.0\ref\Model.dll
 F:\practice\WorkSpace\Microservice\order-api\Model\obj\Debug\net5.0\Model.pdb
-F:\practice\WorkSpace\Microservice\order-api\Model\bin\Debug\net5.0\Model.xml
-F:\practice\WorkSpace\Microservice\order-api\Model\obj\Debug\net5.0\Model.csprojAssemblyReference.cache

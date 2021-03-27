@@ -85,6 +85,262 @@
         }
       }
     },
+    "F:\\practice\\WorkSpace\\Microservice\\order-api\\DataBaseService\\DataBaseService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\practice\\WorkSpace\\Microservice\\order-api\\DataBaseService\\DataBaseService.csproj",
+        "projectName": "DataBaseService",
+        "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\DataBaseService\\DataBaseService.csproj",
+        "packagesPath": "C:\\Users\\wangh\\.nuget\\packages\\",
+        "outputPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\DataBaseService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wangh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.2.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\Enties.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\Enties.csproj",
+        "projectName": "Enties",
+        "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\Enties.csproj",
+        "packagesPath": "C:\\Users\\wangh\\.nuget\\packages\\",
+        "outputPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wangh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.2.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\practice\\WorkSpace\\Microservice\\order-api\\IRepository\\IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\practice\\WorkSpace\\Microservice\\order-api\\IRepository\\IRepository.csproj",
+        "projectName": "IRepository",
+        "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\IRepository\\IRepository.csproj",
+        "packagesPath": "C:\\Users\\wangh\\.nuget\\packages\\",
+        "outputPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wangh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\Enties.csproj": {
+                "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\Enties.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\practice\\WorkSpace\\Microservice\\order-api\\IServices\\IServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\practice\\WorkSpace\\Microservice\\order-api\\IServices\\IServices.csproj",
+        "projectName": "IServices",
+        "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\IServices\\IServices.csproj",
+        "packagesPath": "C:\\Users\\wangh\\.nuget\\packages\\",
+        "outputPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\IServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wangh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\Enties.csproj": {
+                "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\Enties.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "F:\\practice\\WorkSpace\\Microservice\\order-api\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -176,8 +432,17 @@
               "F:\\practice\\WorkSpace\\Microservice\\order-api\\Common\\Common.csproj": {
                 "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Common\\Common.csproj"
               },
+              "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\Enties.csproj": {
+                "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\Enties.csproj"
+              },
+              "F:\\practice\\WorkSpace\\Microservice\\order-api\\IServices\\IServices.csproj": {
+                "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\IServices\\IServices.csproj"
+              },
               "F:\\practice\\WorkSpace\\Microservice\\order-api\\Model\\Model.csproj": {
                 "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Model\\Model.csproj"
+              },
+              "F:\\practice\\WorkSpace\\Microservice\\order-api\\Services\\Services.csproj": {
+                "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Services\\Services.csproj"
               }
             }
           }
@@ -192,6 +457,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "IdentityModel": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -207,6 +480,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.1.1, )"
             },
             "Swashbuckle.AspNetCore.Filters": {
               "target": "Package",
@@ -227,6 +504,144 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\practice\\WorkSpace\\Microservice\\order-api\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\wangh\\.nuget\\packages\\",
+        "outputPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wangh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\practice\\WorkSpace\\Microservice\\order-api\\DataBaseService\\DataBaseService.csproj": {
+                "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\DataBaseService\\DataBaseService.csproj"
+              },
+              "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\Enties.csproj": {
+                "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Enties\\Enties.csproj"
+              },
+              "F:\\practice\\WorkSpace\\Microservice\\order-api\\IRepository\\IRepository.csproj": {
+                "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\IRepository\\IRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\practice\\WorkSpace\\Microservice\\order-api\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\wangh\\.nuget\\packages\\",
+        "outputPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wangh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\practice\\WorkSpace\\Microservice\\order-api\\IRepository\\IRepository.csproj": {
+                "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\IRepository\\IRepository.csproj"
+              },
+              "F:\\practice\\WorkSpace\\Microservice\\order-api\\IServices\\IServices.csproj": {
+                "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\IServices\\IServices.csproj"
+              },
+              "F:\\practice\\WorkSpace\\Microservice\\order-api\\Repository\\Repository.csproj": {
+                "projectPath": "F:\\practice\\WorkSpace\\Microservice\\order-api\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

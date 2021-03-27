@@ -1,0 +1,11 @@
+F:\practice\WorkSpace\Microservice\order-api\Enties\obj\Debug\net5.0\Enties.GeneratedMSBuildEditorConfig.editorconfig
+F:\practice\WorkSpace\Microservice\order-api\Enties\obj\Debug\net5.0\Enties.AssemblyInfoInputs.cache
+F:\practice\WorkSpace\Microservice\order-api\Enties\obj\Debug\net5.0\Enties.AssemblyInfo.cs
+F:\practice\WorkSpace\Microservice\order-api\Enties\obj\Debug\net5.0\Enties.csproj.CoreCompileInputs.cache
+F:\practice\WorkSpace\Microservice\order-api\Enties\bin\Debug\net5.0\Enties.deps.json
+F:\practice\WorkSpace\Microservice\order-api\Enties\bin\Debug\net5.0\Enties.dll
+F:\practice\WorkSpace\Microservice\order-api\Enties\bin\Debug\net5.0\ref\Enties.dll
+F:\practice\WorkSpace\Microservice\order-api\Enties\bin\Debug\net5.0\Enties.pdb
+F:\practice\WorkSpace\Microservice\order-api\Enties\obj\Debug\net5.0\Enties.dll
+F:\practice\WorkSpace\Microservice\order-api\Enties\obj\Debug\net5.0\ref\Enties.dll
+F:\practice\WorkSpace\Microservice\order-api\Enties\obj\Debug\net5.0\Enties.pdb

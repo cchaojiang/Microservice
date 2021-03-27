@@ -19,6 +19,5 @@ namespace Model
         /// 年龄
         /// </summary>
         public string age { set; get; }
-
     }
 }

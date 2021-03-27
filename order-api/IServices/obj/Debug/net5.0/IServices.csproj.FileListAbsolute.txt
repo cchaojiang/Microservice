@@ -1,0 +1,15 @@
+F:\practice\WorkSpace\Microservice\order-api\IServices\bin\Debug\net5.0\IServices.deps.json
+F:\practice\WorkSpace\Microservice\order-api\IServices\bin\Debug\net5.0\IServices.dll
+F:\practice\WorkSpace\Microservice\order-api\IServices\bin\Debug\net5.0\ref\IServices.dll
+F:\practice\WorkSpace\Microservice\order-api\IServices\bin\Debug\net5.0\IServices.pdb
+F:\practice\WorkSpace\Microservice\order-api\IServices\obj\Debug\net5.0\IServices.GeneratedMSBuildEditorConfig.editorconfig
+F:\practice\WorkSpace\Microservice\order-api\IServices\obj\Debug\net5.0\IServices.AssemblyInfoInputs.cache
+F:\practice\WorkSpace\Microservice\order-api\IServices\obj\Debug\net5.0\IServices.AssemblyInfo.cs
+F:\practice\WorkSpace\Microservice\order-api\IServices\obj\Debug\net5.0\IServices.csproj.CoreCompileInputs.cache
+F:\practice\WorkSpace\Microservice\order-api\IServices\obj\Debug\net5.0\IServices.dll
+F:\practice\WorkSpace\Microservice\order-api\IServices\obj\Debug\net5.0\ref\IServices.dll
+F:\practice\WorkSpace\Microservice\order-api\IServices\obj\Debug\net5.0\IServices.pdb
+F:\practice\WorkSpace\Microservice\order-api\IServices\obj\Debug\net5.0\IServices.csprojAssemblyReference.cache
+F:\practice\WorkSpace\Microservice\order-api\IServices\bin\Debug\net5.0\Enties.dll
+F:\practice\WorkSpace\Microservice\order-api\IServices\bin\Debug\net5.0\Enties.pdb
+F:\practice\WorkSpace\Microservice\order-api\IServices\obj\Debug\net5.0\IServices.csproj.CopyComplete
